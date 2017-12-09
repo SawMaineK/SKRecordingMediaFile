@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\Android\\@My Workspace\\CityTaxi\\RecordingMediaFile\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-ldrtl-v23\\values-ldrtl-v23.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 112,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "C:\\Users\\sawma\\.android\\build-cache\\b14cf63d16b0c088f1c06128c399aa96e9a7ca86\\output\\res\\values-ldrtl-v23\\values-ldrtl-v23.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 240,
+                        "endColumn": 112,
+                        "endOffset": 348
+                    }
+                }
+            }
+        ]
+    }
+]
